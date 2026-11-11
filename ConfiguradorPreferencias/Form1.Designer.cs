@@ -194,7 +194,7 @@
             FormBorderStyle = FormBorderStyle.FixedSingle;
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Configurador de preferencias";
+            Text = "Configurador de preferencias- 2";
             panelPrincipal.ResumeLayout(false);
             panelPrincipal.PerformLayout();
             contextMenuStrip1.ResumeLayout(false);
