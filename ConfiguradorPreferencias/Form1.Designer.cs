@@ -50,7 +50,7 @@
             // 
             // panelPrincipal
             // 
-            panelPrincipal.BackColor = Color.AliceBlue;
+            panelPrincipal.BackColor = Color.LightCyan;
             panelPrincipal.ContextMenuStrip = contextMenuStrip1;
             panelPrincipal.Controls.Add(lblResumen);
             panelPrincipal.Controls.Add(btnRestablecer);
